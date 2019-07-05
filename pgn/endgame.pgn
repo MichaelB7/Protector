@@ -1,0 +1,71 @@
+[Event "?"]
+[Site "?"]
+[Date "2009.10.29"]
+[Round "?"]
+[White "KR"]
+[Black "K"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/4k3/8/6K1/7R w - -"]
+
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2009.10.29"]
+[Round "?"]
+[White "KBB"]
+[Black "K"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/4k3/8/6KB/7B w - -"]
+
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2009.10.29"]
+[Round "?"]
+[White "KBN"]
+[Black "K"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/8/4k3/8/6K1/6NB w - -"]
+
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2009.11.10"]
+[Round "?"]
+[White "KQ"]
+[Black "KR"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/8/3k4/4r3/8/6K1/7Q w - -"]
+
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2009.11.10"]
+[Round "?"]
+[White "KRP"]
+[Black "KR"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/2k5/8/8/6K1/3R1P2/5r2 w - -"]
+
+1-0
+
+[Event "?"]
+[Site "?"]
+[Date "2009.11.10"]
+[Round "?"]
+[White "KP"]
+[Black "KP"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "8/8/5k2/8/p7/8/1PK5/8 w - -"]
+
+1-0

@@ -1,0 +1,325 @@
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "1"]
+[White "English Opening"]
+[Black "Hedgehog"]
+[Result "*"]
+[ECO "A30"]
+[PlyCount "21"]
+
+1. c4 c5 2. Nf3 Nf6 3. Nc3 e6 4. g3 b6 5. Bg2 Bb7 6. O-O Be7 7. d4 cxd4 8. Qxd4
+d6 9. Rd1 a6 10. b3 Nbd7 11. e4 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "2"]
+[White "Benoni"]
+[Black "Modern Variation"]
+[Result "*"]
+[ECO "A77"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Be2
+O-O 9. O-O Re8 10. Nd2 Nbd7 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "3"]
+[White "Dutch Defence"]
+[Black "Stonewall"]
+[Result "*"]
+[ECO "A90"]
+[PlyCount "16"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 c6 5. Nf3 d5 6. O-O Bd6 7. b3 Qe7 8. Bb2 O-O
+*
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "4"]
+[White "Pirc Defence"]
+[Black "Classical System"]
+[Result "*"]
+[ECO "B08"]
+[PlyCount "16"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O c6 7. a4 a5 8. h3 Na6
+*
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "5"]
+[White "Caro-Kann"]
+[Black "Capablanca Variation"]
+[Result "*"]
+[ECO "B19"]
+[PlyCount "26"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Qa5+ 12. Bd2 Qc7 13. O-O-O Ngf6 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "6"]
+[White "Sicilian"]
+[Black "Closed"]
+[Result "*"]
+[ECO "B25"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e6 7. Nf3 Nge7 8. O-O
+O-O 9. Be3 Nd4 *
+
+[Event "Nunn Testsuite II"]
+[Site "17"]
+[Date "????.??.??"]
+[Round "7"]
+[White "Sicilian"]
+[Black "Richter-Rauzer"]
+[Result "*"]
+[ECO "B66"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Be3 Be7 10. f4 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "8"]
+[White "Sicilian"]
+[Black "Dragon Variation"]
+[Result "*"]
+[ECO "B78"]
+[PlyCount "19"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "9"]
+[White "Sicilian"]
+[Black "Scheveningen Variation"]
+[Result "*"]
+[ECO "B80"]
+[PlyCount "18"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 b5 8. Qd2
+Nbd7 9. g4 h6 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "10"]
+[White "Sicilian"]
+[Black "Scheveningen Variation"]
+[Result "*"]
+[ECO "B84"]
+[PlyCount "20"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e6 7. O-O Be7 8. f4
+O-O 9. Kh1 Qc7 10. a4 Nc6 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "11"]
+[White "French"]
+[Black "Tarrasch Variation"]
+[Result "*"]
+[ECO "C06"]
+[PlyCount "24"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Nxf6 10. Nf3 Bd6 11. O-O Qc7 12. Bg5 O-O *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "12"]
+[White "Ruy Lopez"]
+[Black "Chigorin Defence"]
+[Result "*"]
+[ECO "C99"]
+[PlyCount "31"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. Nbd2 cxd4 13. cxd4 Nc6 14. Nb3 a5 15.
+Be3 a4 16. Nbd2 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "13"]
+[White "Queen's Gamit"]
+[Black "Accepted"]
+[Result "*"]
+[ECO "D29"]
+[PlyCount "16"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3
+Bb7 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "14"]
+[White "Queen's Gambit"]
+[Black "Tarrasch Defence"]
+[Result "*"]
+[ECO "D34"]
+[PlyCount "22"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O
+O-O 9. Bg5 cxd4 10. Nxd4 h6 11. Be3 Re8 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "15"]
+[White "Queen's Gambit"]
+[Black "Declined"]
+[Result "*"]
+[ECO "D37"]
+[PlyCount "20"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Qa5 10. O-O-O Be7 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "16"]
+[White "Semi-Slav Opening"]
+[Black "?"]
+[Result "*"]
+[ECO "D46"]
+[PlyCount "20"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Be2 O-O 8. O-O
+dxc4 9. Bxc4 b5 10. Be2 Bb7 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "17"]
+[White "Queen's Gambit Declined"]
+[Black "Tartakower Defence"]
+[Result "*"]
+[ECO "D58"]
+[PlyCount "21"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 h6 6. Bh4 O-O 7. e3 b6 8. Be2
+Bb7 9. Bxf6 Bxf6 10. cxd5 exd5 11. b4 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "18"]
+[White "Gruenfeld Defence"]
+[Black "Exchange Variation"]
+[Result "*"]
+[ECO "D85"]
+[PlyCount "27"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Bg5 h6 14. Be3 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "19"]
+[White "Gruenfeld Defence"]
+[Black "Russian System"]
+[Result "*"]
+[ECO "D97"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6 8. e5
+b5 9. Qb3 Nfd7 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "20"]
+[White "Queen's Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[PlyCount "21"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 Nxc3 8.
+bxc3 Be7 9. e4 O-O 10. Bd3 c5 11. O-O *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "21"]
+[White "Queen's Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "E15"]
+[PlyCount "17"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
+d5 9. Ne5 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "22"]
+[White "Nimzo-Indian"]
+[Black "Rubinstein Variation"]
+[Result "*"]
+[ECO "E48"]
+[PlyCount "18"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Nge2 d5 7. cxd5 cxd4 8.
+exd4 Nxd5 9. O-O Nc6 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "23"]
+[White "Nimzo-Indian"]
+[Black "Rubinstein Variation"]
+[Result "*"]
+[ECO "E59"]
+[PlyCount "20"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 c5 7. O-O Nc6 8. a3
+Bxc3 9. bxc3 dxc4 10. Bxc4 Qc7 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "24"]
+[White "King's Indian"]
+[Black "Saemisch Variation"]
+[Result "*"]
+[ECO "E88"]
+[PlyCount "22"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 cxd5
+9. cxd5 Nh5 10. Nge2 f5 11. exf5 gxf5 *
+
+[Event "Nunn Testsuite II"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "25"]
+[White "King's Indian"]
+[Black "Classical Main Line"]
+[Result "*"]
+[ECO "E99"]
+[PlyCount "24"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 *
